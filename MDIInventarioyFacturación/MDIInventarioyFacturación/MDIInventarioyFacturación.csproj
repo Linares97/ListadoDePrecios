@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{30235878-42EF-42F6-8471-F70162ED7588}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MDIInventarioyFacturación</RootNamespace>
+    <AssemblyName>MDIInventarioyFacturación</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="capaDatos">
+      <HintPath>C:\Users\Eddy\Desktop\comision\capaDatos\bin\Debug\capaDatos.dll</HintPath>
+    </Reference>
+    <Reference Include="capaDiseño">
+      <HintPath>C:\Users\Eddy\Desktop\comision\capaDesigne\bin\Debug\capaDiseño.dll</HintPath>
+    </Reference>
+    <Reference Include="comision">
+      <HintPath>C:\Users\Eddy\Desktop\comision\comision\obj\Debug\comision.dll</HintPath>
+    </Reference>
+    <Reference Include="libreriaPrueba">
+      <HintPath>..\..\..\..\..\Visual Studio 2015\Projects\libreriaPrueba\libreriaPrueba\bin\Debug\libreriaPrueba.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="Navegador">
+      <HintPath>..\..\..\..\..\Downloads\ASIS 2\Proyecto Hotel San Carlos\Navegador-master (1A)\Navegador\bin\Debug\Navegador.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ListPrecios\actualizarPorcentajes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ListPrecios\actualizarPorcentajes.Designer.cs">
+      <DependentUpon>actualizarPorcentajes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ListPrecios\formCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ListPrecios\formCliente.Designer.cs">
+      <DependentUpon>formCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ListPrecios\formListas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ListPrecios\formListas.Designer.cs">
+      <DependentUpon>formListas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ListPrecios\ListadoPrecio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ListPrecios\ListadoPrecio.Designer.cs">
+      <DependentUpon>ListadoPrecio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Mantenimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Mantenimiento.Designer.cs">
+      <DependentUpon>Mantenimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\MyDBEntity.cs" />
+    <Compile Include="Forms\MovInventario\dllconnectionDatabase.cs" />
+    <Compile Include="Forms\MovInventario\FormDataGridBodega.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MovInventario\FormDataGridBodega.Designer.cs">
+      <DependentUpon>FormDataGridBodega.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MovInventario\FormSelectProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MovInventario\FormSelectProducto.Designer.cs">
+      <DependentUpon>FormSelectProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MovInventario\FormTiposDeMovimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MovInventario\FormTiposDeMovimiento.Designer.cs">
+      <DependentUpon>FormTiposDeMovimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MovInventario\MuestraInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MovInventario\MuestraInventario.Designer.cs">
+      <DependentUpon>MuestraInventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MovInventario\NuevoMovimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MovInventario\NuevoMovimiento.Designer.cs">
+      <DependentUpon>NuevoMovimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Poliza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Poliza.Designer.cs">
+      <DependentUpon>Poliza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Navegador.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Clases\Navegador.designer.cs">
+      <DependentUpon>Navegador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Forms\WFCuentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\WFCuentas.Designer.cs">
+      <DependentUpon>WFCuentas.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ListPrecios\actualizarPorcentajes.resx">
+      <DependentUpon>actualizarPorcentajes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ListPrecios\formCliente.resx">
+      <DependentUpon>formCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ListPrecios\formListas.resx">
+      <DependentUpon>formListas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ListPrecios\ListadoPrecio.resx">
+      <DependentUpon>ListadoPrecio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Mantenimiento.resx">
+      <DependentUpon>Mantenimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MovInventario\FormDataGridBodega.resx">
+      <DependentUpon>FormDataGridBodega.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MovInventario\FormSelectProducto.resx">
+      <DependentUpon>FormSelectProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MovInventario\FormTiposDeMovimiento.resx">
+      <DependentUpon>FormTiposDeMovimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MovInventario\MuestraInventario.resx">
+      <DependentUpon>MuestraInventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MovInventario\NuevoMovimiento.resx">
+      <DependentUpon>NuevoMovimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Poliza.resx">
+      <DependentUpon>Poliza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clases\Navegador.resx">
+      <DependentUpon>Navegador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\WFCuentas.resx">
+      <DependentUpon>WFCuentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

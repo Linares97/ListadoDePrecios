@@ -1,0 +1,98 @@
+c:\users\davis\documents\visual studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\MDIInventarioyFacturación.exe.config
+c:\users\davis\documents\visual studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.csprojResolveAssemblyReference.cache
+c:\users\davis\documents\visual studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Form1.resources
+c:\users\davis\documents\visual studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Mantenimiento.resources
+c:\users\davis\documents\visual studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Properties.Resources.resources
+c:\users\davis\documents\visual studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.WFCuentas.resources
+c:\users\davis\documents\visual studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.csproj.GenerateResource.Cache
+c:\users\davis\documents\visual studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\MDIInventarioyFacturación.exe
+c:\users\davis\documents\visual studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\MDIInventarioyFacturación.pdb
+c:\users\davis\documents\visual studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\MySql.Data.dll
+c:\users\davis\documents\visual studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\MySql.Data.xml
+c:\users\davis\documents\visual studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.exe
+c:\users\davis\documents\visual studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.pdb
+C:\Users\davis\documents\visual studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Poliza.resources
+C:\Users\davis\documents\visual studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\Navegador.dll
+C:\Users\davis\documents\visual studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\Navegador.pdb
+C:\Users\davis\documents\visual studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\Navegador.Navegador.resources
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\MDIInventarioyFacturación.exe.config
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.pdb
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\MDIInventarioyFacturación.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\MDIInventarioyFacturación.pdb
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\MySql.Data.dll
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\MySql.Data.xml
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\Navegador.pdb
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Form1.resources
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Mantenimiento.resources
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Forms.MovInventario.FormDataGridBodega.resources
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Forms.MovInventario.FormSelectProducto.resources
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Forms.MovInventario.FormTiposDeMovimiento.resources
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Forms.MovInventario.MuestraInventario.resources
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Forms.MovInventario.NuevoMovimiento.resources
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Poliza.resources
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\Navegador.Navegador.resources
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Properties.Resources.resources
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.WFCuentas.resources
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.csproj.GenerateResource.Cache
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\MDIInventarioyFacturación.exe.config
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.exe
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.pdb
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\MDIInventarioyFacturación.exe
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\MDIInventarioyFacturación.pdb
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\MySql.Data.xml
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\Navegador.pdb
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.csprojResolveAssemblyReference.cache
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Form1.resources
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Mantenimiento.resources
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Forms.MovInventario.FormDataGridBodega.resources
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Forms.MovInventario.FormSelectProducto.resources
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Forms.MovInventario.FormTiposDeMovimiento.resources
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Forms.MovInventario.MuestraInventario.resources
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Forms.MovInventario.NuevoMovimiento.resources
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Poliza.resources
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\Navegador.Navegador.resources
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Properties.Resources.resources
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.WFCuentas.resources
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.csproj.GenerateResource.Cache
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.csproj.MDIInventarioyFacturación.exe.config
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\capaDatos.dll
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\capaDiseño.dll
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\comision.dll
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\capaDatos.pdb
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\capaDiseño.pdb
+D:\analisis\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\comision.pdb
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\MDIInventarioyFacturación.exe.config
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.exe
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.pdb
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\MDIInventarioyFacturación.exe.config
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.exe
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.pdb
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\MDIInventarioyFacturación.exe
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\MDIInventarioyFacturación.pdb
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\capaDatos.pdb
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\capaDiseño.pdb
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\comision.pdb
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\MySql.Data.xml
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\Navegador.pdb
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.csprojResolveAssemblyReference.cache
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.csproj.MDIInventarioyFacturación.exe.config
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Form1.resources
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Forms.ListPrecios.ListadoPrecio.resources
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Mantenimiento.resources
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Forms.MovInventario.FormDataGridBodega.resources
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Forms.MovInventario.FormSelectProducto.resources
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Forms.MovInventario.FormTiposDeMovimiento.resources
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Forms.MovInventario.MuestraInventario.resources
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Forms.MovInventario.NuevoMovimiento.resources
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Poliza.resources
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\Navegador.Navegador.resources
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Properties.Resources.resources
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.WFCuentas.resources
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.csproj.GenerateResource.Cache
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\libreriaPrueba.dll
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\bin\Debug\libreriaPrueba.pdb
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Forms.ListPrecios.actualizarPorcentajes.resources
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Forms.ListPrecios.formCliente.resources
+C:\Users\Oswaldo\Documents\AA-Universidad\Asis2\ListadoPrecios-JeanLinares\MDIInventarioyFacturación\MDIInventarioyFacturación\obj\Debug\MDIInventarioyFacturación.Forms.ListPrecios.formListas.resources
